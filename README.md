@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋, I'm Kelvin</h1>
-<h3 align="center">Computer System Engineer | Front-end Developer</h3>
+<h3 align="center">Computer System Engineer | Software Developer</h3>
 
 - 🌱 I’m currently learning **Front-end Frameworks and Mobile Development**
 
